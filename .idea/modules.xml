@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-vilij/data-vilij.iml" filepath="$PROJECT_DIR$/data-vilij/data-vilij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vilij/vilij.iml" filepath="$PROJECT_DIR$/vilij/vilij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlutil/xmlutil.iml" filepath="$PROJECT_DIR$/xmlutil/xmlutil.iml" />
+    </modules>
+  </component>
+</project>
